@@ -12,7 +12,7 @@
 #### Business Constraints
 #### Quality Attribute Requirements
 ##### Top Scenarios
-#### Influentical Function Requirements
+#### Influential Function Requirements
 ##### Top Users/User Personas
 ##### Use Cases/User Stories
 ### Appendix A: Glossary
