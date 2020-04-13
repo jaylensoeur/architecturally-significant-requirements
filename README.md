@@ -1,4 +1,4 @@
-# ASR (Architecture Significant Requirements)
+# ASR (Architecturally Significant Requirements)
 
 > Sample ASR Workbook Outline
 
